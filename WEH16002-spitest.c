@@ -6,6 +6,7 @@
 // raspi adaptation by woytekm
 //
 
+#include <string.h>
 #include <bcm2835.h>
 
 //
